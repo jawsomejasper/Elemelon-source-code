@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "elemelon:blocks/firemelon_stage_3"
+    }
+}

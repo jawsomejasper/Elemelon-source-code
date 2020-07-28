@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "elemelon:melon_essence_ore"
+  },
+  "result": "minecraft:melon_slice",
+  "experience": 1.0,
+  "cookingtime": 100
+}

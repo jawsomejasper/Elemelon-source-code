@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elemelon",
+  "name": "The Elemelon Mod",
+  "description": "A mod that adds in, you guessed it, elemental melons into Minecraft. This includes a watermelon, an airmelon, a firemelon and an earthmelon. This mod also adds in an easier way to obtain melons.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JawsomeJasper"],
+  "credits": "A friend of mine(you know who you are)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

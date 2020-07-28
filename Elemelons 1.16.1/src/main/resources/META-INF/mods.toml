@@ -1,0 +1,46 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="elemelon" #mandatory
+
+version="1.16.1-1.0.0" #mandatory
+
+displayName="The Elemelon Mod" #mandatory
+
+updateJSONURL="https://myurl.me" #optional
+
+displayURL="https://example.com" #optional
+
+logoFile="examplemod.png" #optional
+
+credits="Thanks for this idea goes to a friend(you know who you are)" #optional
+
+authors="jawsomejasper" #optional
+
+description='''
+A mod that adds in, you guessed it, elemental melons into Minecraft. This includes a watermelon, an airmelon, a firemelon and an earthmelon. This mod also adds in an easier way to obtain melons.
+'''
+
+[[dependencies.elemelon]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[31,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+
+[[dependencies.elemelon]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"

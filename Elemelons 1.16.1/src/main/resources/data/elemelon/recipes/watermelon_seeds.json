@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elemelon:watermelon"
+    }
+  ],
+  "result": {
+    "item": "elemelon:watermelon_seed"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elemelon:firemelon"
+    }
+  ],
+  "result": {
+    "item": "elemelon:firemelon_seed"
+  }
+}

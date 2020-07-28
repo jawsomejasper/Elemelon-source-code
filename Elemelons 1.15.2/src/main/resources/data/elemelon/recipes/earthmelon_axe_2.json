@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "#X",
+    "# "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "elemelon:earthmelon"
+    }
+  },
+  "result": {
+    "item": "elemelon:earthmelon_axe"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "elemelon:blocks/earthmelon_stage_7"
+    }
+}

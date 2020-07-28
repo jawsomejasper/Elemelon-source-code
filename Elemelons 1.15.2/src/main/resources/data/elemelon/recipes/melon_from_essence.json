@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "elemelon:melon_essence"
+    }
+  },
+  "result": {
+    "item": "minecraft:melon_slice"
+  }
+}

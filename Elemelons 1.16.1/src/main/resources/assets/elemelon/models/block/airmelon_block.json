@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "elemelon:blocks/airmelon_block_top",
+    "side": "elemelon:blocks/airmelon_block_side"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eee",
+    "eme",
+    "eee"
+  ],
+  "key": {
+    "e": {
+      "item": "elemelon:watermelon_essence"
+    },
+    "m": {
+      "item": "minecraft:melon_slice"
+    }
+  },
+  "result": {
+    "item": "elemelon:watermelon"
+  }
+}

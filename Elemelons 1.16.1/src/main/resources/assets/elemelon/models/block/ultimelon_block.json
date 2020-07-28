@@ -1,0 +1,11 @@
+{
+   "parent": "block/melon",
+   "textures": {
+       "up": "elemelon:blocks/ultimelon_block_1",
+       "down": "elemelon:blocks/ultimelon_block_0",
+       "south": "elemelon:blocks/ultimelon_block_3",
+       "north": "elemelon:blocks/ultimelon_block_2",
+       "west": "elemelon:blocks/ultimelon_block_4",
+       "east": "elemelon:blocks/ultimelon_block_5"
+   }
+}

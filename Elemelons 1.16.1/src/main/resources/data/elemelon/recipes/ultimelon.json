@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elemelon:airmelon"
+    },
+    
+    {
+      "item": "elemelon:firemelon"
+    },
+    
+    {
+      "item": "elemelon:earthmelon"
+    },
+    
+    {
+      "item": "elemelon:watermelon"
+    }
+  ],
+  "result": {
+    "item": "elemelon:ultimelon"
+  }
+}

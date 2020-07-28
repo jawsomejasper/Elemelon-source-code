@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elemelon:earthmelon_block"
+    }
+  ],
+  "result": {
+    "item": "elemelon:earthmelon",
+    "count": 9
+  }
+}

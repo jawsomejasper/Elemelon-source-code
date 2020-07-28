@@ -1,0 +1,11 @@
+{
+   "parent": "block/bedrock",
+   "textures": {
+       "up": "elemelon:blocks/earthmelon_essence_ore",
+       "down": "elemelon:blocks/earthmelon_essence_ore",
+       "south": "elemelon:blocks/earthmelon_essence_ore",
+       "north": "elemelon:blocks/earthmelon_essence_ore",
+       "west": "elemelon:blocks/earthmelon_essence_ore",
+       "east": "elemelon:blocks/earthmelon_essence_ore"
+   }
+}

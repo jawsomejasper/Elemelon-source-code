@@ -1,0 +1,108 @@
+item.Watermelon.name=Watermelon
+item.Firemelon.name=Firemelon
+item.Airmelon.name=Airmelon
+item.Earthmelon.name=Earthmelon
+item.Ultimelon.name=Ultimelon
+
+item.WatermelonSeeds.name=Watermelon Seeds
+item.FiremelonSeeds.name=Firemelon Seeds
+item.AirmelonSeeds.name=Airmelon Seeds
+item.EarthmelonSeeds.name=Earthmelon Seeds
+
+item.WatermelonEssence.name=Watermelon Essence
+item.FiremelonEssence.name=Firemelon Essence
+item.AirmelonEssence.name=Airmelon Essence
+item.EarthmelonEssence.name=Earthmelon Essence
+item.MelonEssence.name=Melon Essence
+
+item.watermelonSeeds.name=Watermelon Seeds
+item.firemelonSeeds.name=Firemelon Seeds
+item.airmelonSeeds.name=Airmelon Seeds
+item.earthmelonSeeds.name=Earthmelon Seeds
+item.ultimelonSeeds.name=Ultimelon Seeds
+
+tile.WatermelonEssenceOre.name=Watermelon Essence Ore
+tile.FiremelonEssenceOre.name=Firemelon Essence Ore
+tile.AirmelonEssenceOre.name=Airmelon Essence Ore
+tile.EarthmelonEssenceOre.name=Earthmelon Essence Ore
+tile.MelonEssenceOre.name=Melon Essence Ore
+
+item.MelonPickaxe.name=Melon Pickaxe
+item.MelonAxe.name=Melon Axe
+item.MelonShovel.name=Melon Shovel
+item.MelonHoe.name=Melon Hoe
+item.MelonSword.name=Melon Sword
+
+item.WatermelonPickaxe.name=Watermelon Pickaxe
+item.WatermelonAxe.name=Watermelon Axe
+item.WatermelonShovel.name=Watermelon Shovel
+item.WatermelonHoe.name=Watermelon Hoe
+item.WatermelonSword.name=Watermelon Sword
+
+item.AirmelonPickaxe.name=Airmelon Pickaxe
+item.AirmelonAxe.name=Airmelon Axe
+item.AirmelonShovel.name=Airmelon Shovel
+item.AirmelonHoe.name=Airmelon Hoe
+item.AirmelonSword.name=Airmelon Sword
+
+item.FiremelonPickaxe.name=Firemelon Pickaxe
+item.FiremelonAxe.name=Firemelon Axe
+item.FiremelonShovel.name=Firemelon Shovel
+item.FiremelonHoe.name=Firemelon Hoe
+item.FiremelonSword.name=Firemelon Sword
+
+item.EarthmelonPickaxe.name=Earthmelon Pickaxe
+item.EarthmelonAxe.name=Earthmelon Axe
+item.EarthmelonShovel.name=Earthmelon Shovel
+item.EarthmelonHoe.name=Earthmelon Hoe
+item.EarthmelonSword.name=Earthmelon Sword
+
+item.UltimelonPickaxe.name=Ultimelon Pickaxe
+item.UltimelonAxe.name=Ultimelon Axe
+item.UltimelonShovel.name=Ultimelon Shovel
+item.UltimelonHoe.name=Ultimelon Hoe
+item.UltimelonSword.name=Ultimelon Sword
+
+item.MelonHelmet.name=Melon Helmet
+item.MelonChestplate.name=Melon Chestplate
+item.MelonLeggings.name=Melon Leggings
+item.MelonBoots.name=Melon Boots
+
+item.WatermelonHelmet.name=Watermelon Helmet
+item.WatermelonChestplate.name=Watermelon Chestplate
+item.WatermelonLeggings.name=Watermelon Leggings
+item.WatermelonBoots.name=Watermelon Boots
+
+item.AirmelonHelmet.name=Airmelon Helmet
+item.AirmelonChestplate.name=Airmelon Chestplate
+item.AirmelonLeggings.name=Airmelon Leggings
+item.AirmelonBoots.name=Airmelon Boots
+
+item.EarthmelonHelmet.name=Earthmelon Helmet
+item.EarthmelonChestplate.name=Earthmelon Chestplate
+item.EarthmelonLeggings.name=Earthmelon Leggings
+item.EarthmelonBoots.name=Earthmelon Boots
+
+item.FiremelonHelmet.name=Firemelon Helmet
+item.FiremelonChestplate.name=Firemelon Chestplate
+item.FiremelonLeggings.name=Firemelon Leggings
+item.FiremelonBoots.name=Firemelon Boots
+
+item.UltimelonHelmet.name=Ultimelon Helmet
+item.UltimelonChestplate.name=Ultimelon Chestplate
+item.UltimelonLeggings.name=Ultimelon Leggings
+item.UltimelonBoots.name=Ultimelon Boots
+
+tile.WatermelonBlock.name=Watermelon Block
+tile.EarthmelonBlock.name=Earthmelon Block
+tile.FiremelonBlock.name=Firemelon Block
+tile.AirmelonBlock.name=Airmelon Block
+tile.UltimelonBlock.name=Ultimelon Block
+
+tile.WatermelonCrop.name=Watermelon Crop
+tile.EarthmelonCrop.name=Earthmelon Crop
+tile.FiremelonCrop.name=Firemelon Crop
+tile.AirmelonCrop.name=Airmelon Crop
+tile.UltimelonCrops.name=Ultimelon Crop
+
+itemGroup.tabElemelonsMod=The Elemelons Mod

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "elemelon:ultimelon_block"
+    }
+  ],
+  "result": {
+    "item": "elemelon:ultimelon",
+    "count": 9
+  }
+}

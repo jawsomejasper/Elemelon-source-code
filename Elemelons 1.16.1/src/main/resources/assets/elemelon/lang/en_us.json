@@ -1,0 +1,99 @@
+{
+	"item.elemelon.watermelon_essence":"Watermelon Essence",
+	"item.elemelon.airmelon_essence":"Airmelon Essence",
+	"item.elemelon.firemelon_essence":"Firemelon Essence",
+	"item.elemelon.earthmelon_essence":"Earthmelon Essence",
+	"item.elemelon.melon_essence":"Melon Essence",
+	
+	"item.elemelon.watermelon":"Watermelon",
+	"item.elemelon.airmelon":"Airmelon",
+	"item.elemelon.firemelon":"Firemelon",
+	"item.elemelon.earthmelon":"Earthmelon",
+	"item.elemelon.ultimelon":"Ultimelon",
+	
+	"block.elemelon.watermelon_block":"Watermelon Block",
+	"block.elemelon.airmelon_block":"Airmelon Block",
+	"block.elemelon.firemelon_block":"Firemelon Block",
+	"block.elemelon.earthmelon_block":"Earthmelon Block",
+	"block.elemelon.ultimelon_block":"Ultimelon Block",
+	
+	"block.elemelon.watermelon_essence_ore":"Watermelon Essence Ore",
+	"block.elemelon.airmelon_essence_ore":"Airmelon Essence Ore",
+	"block.elemelon.firemelon_essence_ore":"Firemelon Essence Ore",
+	"block.elemelon.earthmelon_essence_ore":"Earthmelon Essence Ore",
+	"block.elemelon.melon_essence_ore":"Melon Essence Ore",
+	
+	"item.elemelon.watermelon_sword":"Watermelon Sword",
+	"item.elemelon.watermelon_pickaxe":"Watermelon Pickaxe",
+	"item.elemelon.watermelon_axe":"Watermelon Axe",
+	"item.elemelon.watermelon_shovel":"Watermelon Shovel",
+	"item.elemelon.watermelon_hoe":"Watermelon Hoe",
+	
+	"item.elemelon.airmelon_sword":"Airmelon Sword",
+	"item.elemelon.airmelon_pickaxe":"Airmelon Pickaxe",
+	"item.elemelon.airmelon_axe":"Airmelon Axe",
+	"item.elemelon.airmelon_shovel":"Airmelon Shovel",
+	"item.elemelon.airmelon_hoe":"Airmelon Hoe",
+	
+	"item.elemelon.firemelon_sword":"Firemelon Sword",
+	"item.elemelon.firemelon_pickaxe":"Firemelon Pickaxe",
+	"item.elemelon.firemelon_axe":"Firemelon Axe",
+	"item.elemelon.firemelon_shovel":"Firemelon Shovel",
+	"item.elemelon.firemelon_hoe":"Firemelon Hoe",
+	
+	"item.elemelon.earthmelon_sword":"Earthmelon Sword",
+	"item.elemelon.earthmelon_pickaxe":"Earthmelon Pickaxe",
+	"item.elemelon.earthmelon_axe":"Earthmelon Axe",
+	"item.elemelon.earthmelon_shovel":"Earthmelon Shovel",
+	"item.elemelon.earthmelon_hoe":"Earthmelon Hoe",
+	
+	"item.elemelon.melon_sword":"Melon Sword",
+	"item.elemelon.melon_pickaxe":"Melon Pickaxe",
+	"item.elemelon.melon_axe":"Melon Axe",
+	"item.elemelon.melon_shovel":"Melon Shovel",
+	"item.elemelon.melon_hoe":"Melon Hoe",
+	
+	"item.elemelon.ultimelon_sword":"Ultimelon Sword",
+	"item.elemelon.ultimelon_pickaxe":"Ultimelon Pickaxe",
+	"item.elemelon.ultimelon_axe":"Ultimelon Axe",
+	"item.elemelon.ultimelon_shovel":"Ultimelon Shovel",
+	"item.elemelon.ultimelon_hoe":"Ultimelon Hoe",
+	
+	"item.elemelon.melon_helmet":"Melon Helmet",
+	"item.elemelon.melon_chestplate":"Melon Chestplate",
+	"item.elemelon.melon_leggings":"Melon Leggings",
+	"item.elemelon.melon_boots":"Melon Boots",
+	
+	"item.elemelon.watermelon_helmet":"Watermelon Helmet",
+	"item.elemelon.watermelon_chestplate":"Watermelon Chestplate",
+	"item.elemelon.watermelon_leggings":"Watermelon Leggings",
+	"item.elemelon.watermelon_boots":"Watermelon Boots",
+	
+	"item.elemelon.airmelon_helmet":"Airmelon Helmet",
+	"item.elemelon.airmelon_chestplate":"Airmelon Chestplate",
+	"item.elemelon.airmelon_leggings":"Airmelon Leggings",
+	"item.elemelon.airmelon_boots":"Airmelon Boots",
+	
+	"item.elemelon.firemelon_helmet":"Firemelon Helmet",
+	"item.elemelon.firemelon_chestplate":"Firemelon Chestplate",
+	"item.elemelon.firemelon_leggings":"Firemelon Leggings",
+	"item.elemelon.firemelon_boots":"Firemelon Boots",
+	
+	"item.elemelon.earthmelon_helmet":"Earthmelon Helmet",
+	"item.elemelon.earthmelon_chestplate":"Earthmelon Chestplate",
+	"item.elemelon.earthmelon_leggings":"Earthmelon Leggings",
+	"item.elemelon.earthmelon_boots":"Earthmelon Boots",
+	
+	"item.elemelon.ultimelon_helmet":"Ultimelon Helmet",
+	"item.elemelon.ultimelon_chestplate":"Ultimelon Chestplate",
+	"item.elemelon.ultimelon_leggings":"Ultimelon Leggings",
+	"item.elemelon.ultimelon_boots":"Ultimelon Boots",
+	
+	"block.elemelon.watermelon_crop":"Watermelon Seeds",
+	"block.elemelon.airmelon_crop":"Airmelon Seeds",
+	"block.elemelon.firemelon_crop":"Firemelon Seeds",
+	"block.elemelon.earthmelon_crop":"Earthmelon Seeds",
+	"block.elemelon.ultimelon_crop":"Ultimelon Seeds",
+	
+	"itemGroup.tabElemelonMod":"The Elemelon Mod"
+}

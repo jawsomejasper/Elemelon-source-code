@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "elemelon:blocks/earthmelon_essence_ore"
+    }
+}
