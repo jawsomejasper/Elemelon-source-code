@@ -1,0 +1,99 @@
+{
+	"item.elemelon.watermelon_essence":"水瓜精华",
+	"item.elemelon.airmelon_essence":"风瓜精华",
+	"item.elemelon.firemelon_essence":"火瓜精华",
+	"item.elemelon.earthmelon_essence":"土瓜精华",
+	"item.elemelon.melon_essence":"西瓜精华",
+	
+	"item.elemelon.watermelon":"水瓜",
+	"item.elemelon.airmelon":"风瓜",
+	"item.elemelon.firemelon":"火瓜",
+	"item.elemelon.earthmelon":"土瓜",
+	"item.elemelon.ultimelon":"终极瓜",
+	
+	"block.elemelon.watermelon_block":"水瓜块",
+	"block.elemelon.airmelon_block":"风瓜块",
+	"block.elemelon.firemelon_block":"火瓜块",
+	"block.elemelon.earthmelon_block":"土瓜块",
+	"block.elemelon.ultimelon_block":"终极瓜块",
+	
+	"block.elemelon.watermelon_essence_ore":"水瓜精华矿",
+	"block.elemelon.airmelon_essence_ore":"风瓜精华矿",
+	"block.elemelon.firemelon_essence_ore":"火瓜精华矿",
+	"block.elemelon.earthmelon_essence_ore":"土瓜精华矿",
+	"block.elemelon.melon_essence_ore":"西瓜精华矿",
+	
+	"item.elemelon.watermelon_sword":"水瓜剑",
+	"item.elemelon.watermelon_pickaxe":"水瓜镐",
+	"item.elemelon.watermelon_axe":"水瓜斧",
+	"item.elemelon.watermelon_shovel":"水瓜铲",
+	"item.elemelon.watermelon_hoe":"水瓜锄",
+	
+	"item.elemelon.airmelon_sword":"风瓜剑",
+	"item.elemelon.airmelon_pickaxe":"风瓜镐",
+	"item.elemelon.airmelon_axe":"风瓜斧",
+	"item.elemelon.airmelon_shovel":"风瓜铲",
+	"item.elemelon.airmelon_hoe":"风瓜锄",
+	
+	"item.elemelon.firemelon_sword":"火瓜剑",
+	"item.elemelon.firemelon_pickaxe":"火瓜镐",
+	"item.elemelon.firemelon_axe":"火瓜斧",
+	"item.elemelon.firemelon_shovel":"火瓜铲",
+	"item.elemelon.firemelon_hoe":"火瓜锄",
+	
+	"item.elemelon.earthmelon_sword":"土瓜剑",
+	"item.elemelon.earthmelon_pickaxe":"土瓜镐",
+	"item.elemelon.earthmelon_axe":"土瓜斧",
+	"item.elemelon.earthmelon_shovel":"土瓜铲",
+	"item.elemelon.earthmelon_hoe":"土瓜锄",
+	
+	"item.elemelon.melon_sword":"西瓜剑",
+	"item.elemelon.melon_pickaxe":"西瓜镐",
+	"item.elemelon.melon_axe":"西瓜斧",
+	"item.elemelon.melon_shovel":"西瓜铲",
+	"item.elemelon.melon_hoe":"西瓜锄",
+	
+	"item.elemelon.ultimelon_sword":"终极瓜剑",
+	"item.elemelon.ultimelon_pickaxe":"终极瓜镐",
+	"item.elemelon.ultimelon_axe":"终极瓜斧",
+	"item.elemelon.ultimelon_shovel":"终极瓜铲",
+	"item.elemelon.ultimelon_hoe":"终极瓜锄",
+	
+	"item.elemelon.melon_helmet":"西瓜头盔",
+	"item.elemelon.melon_chestplate":"西瓜胸甲",
+	"item.elemelon.melon_leggings":"西瓜护腿",
+	"item.elemelon.melon_boots":"西瓜靴子",
+	
+	"item.elemelon.watermelon_helmet":"水瓜头盔",
+	"item.elemelon.watermelon_chestplate":"水瓜胸甲",
+	"item.elemelon.watermelon_leggings":"水瓜护腿",
+	"item.elemelon.watermelon_boots":"水瓜靴子",
+	
+	"item.elemelon.airmelon_helmet":"风瓜头盔",
+	"item.elemelon.airmelon_chestplate":"风瓜胸甲",
+	"item.elemelon.airmelon_leggings":"风瓜护腿",
+	"item.elemelon.airmelon_boots":"风瓜靴子",
+	
+	"item.elemelon.firemelon_helmet":"火瓜头盔",
+	"item.elemelon.firemelon_chestplate":"火瓜胸甲",
+	"item.elemelon.firemelon_leggings":"火瓜护腿",
+	"item.elemelon.firemelon_boots":"火瓜靴子",
+	
+	"item.elemelon.earthmelon_helmet":"土瓜头盔",
+	"item.elemelon.earthmelon_chestplate":"土瓜胸甲",
+	"item.elemelon.earthmelon_leggings":"土瓜护腿",
+	"item.elemelon.earthmelon_boots":"土瓜靴子",
+	
+	"item.elemelon.ultimelon_helmet":"终极瓜头盔",
+	"item.elemelon.ultimelon_chestplate":"终极瓜胸甲",
+	"item.elemelon.ultimelon_leggings":"终极瓜护腿",
+	"item.elemelon.ultimelon_boots":"终极瓜靴子",
+	
+	"block.elemelon.watermelon_crop":"水瓜种子",
+	"block.elemelon.airmelon_crop":"风瓜种子",
+	"block.elemelon.firemelon_crop":"火瓜种子",
+	"block.elemelon.earthmelon_crop":"土瓜种子",
+	"block.elemelon.ultimelon_crop":"终极瓜种子",
+	
+	"itemGroup.tabElemelonMod":"元素西瓜"
+}
